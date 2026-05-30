@@ -117,3 +117,7 @@ Always remediate during scheduled maintenance windows. Never on a device that is
 
 ## Disclaimer
 Provided as-is for reference and learning purposes. Sample data and identifiers are sanitized.
+
+## Blog Post
+
+A full write-up of the diagnostic signature, the remediation steps, and the timing expectations is at [AroraMSP: Fixing Windows LAPS escrow failures caused by broken hybrid Entra ID registration](https://aroramsp.com/blog/laps-hybrid-registration-fix).
